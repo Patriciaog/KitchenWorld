@@ -1,0 +1,151 @@
+
+
+#logo {
+  height: 100px;
+  width: 100px;
+
+
+}
+
+#logo_link{
+  padding: none ;
+}
+
+#comp_name{
+width:10%;
+font-size:100% ;
+text-align: center;
+}
+
+
+
+.bg-bright-blue {
+    background-color: #007bff; /* Bright blue color */
+}
+
+.navbar-light .navbar-nav .nav-link {
+    color: white; /* White text for better contrast */
+    font-weight: bold; /* Making the text bold */
+}
+
+.navbar-light .navbar-nav .nav-link-signup {
+    background-color: white; /* White background for the Sign Up button */
+    color: #007bff; /* Text color matching the navbar background */
+    padding: 5px 10px; /* Padding for better button shape */
+    border-radius: 5px; /* Rounded corners */
+}
+
+/* Hover effect for Sign Up button */
+.navbar-light .navbar-nav .nav-link-signup:hover {
+    color: white;
+    background-color: #0056b3; /* Slightly darker blue on hover */
+}
+.bg-light-grey {
+    background-color: #f8f9fa; /* Light grey color */
+}
+
+/* New CSS for dark text in the second navbar */
+.bg-light-grey .navbar-nav .nav-link {
+    color: #343a40; /* Dark color for text */
+}
+
+.navbar-light .navbar-nav .nav-item {
+    margin: 0 20px; /* Spacing between nav items */
+}
+
+.custom-sticky-nav {
+    position: -webkit-sticky; /* For Safari */
+    position: sticky;
+    top: 0;
+    z-index: 1020; /* Higher than most elements on the page */
+}
+
+
+#wrapper{
+  background-size: cover;
+  width: 100%;
+  box-sizing: border-box;
+}
+
+.carousel-container {
+    width: 80%; /* or any width you prefer */
+    margin: auto; /* This will center the carousel */
+    max-width: 80%; /* Maximum width */
+    height: 500px; /* Adjust height as needed */
+    overflow: hidden; /* To handle overflow if necessary */
+}
+
+.carousel-container .carousel-item img {
+    width: 100%; /* Make images responsive within the container */
+    height: 500px;
+   
+}
+
+#popItemH2{
+  margin-left: 160px;
+}
+
+footer {
+  background-color: #D3D3D3;
+  overflow: hidden;
+  text-align: center;
+  color: black;
+}
+
+#footer_logo{
+  margin-top: 20px ;
+  width: 100px;
+}
+
+#footer_comp_name{
+ font:normal  20px/1 "Open Sans", sans-serif;
+}
+
+#foot_col_0,
+#foot_col_1,
+#foot_col_2,
+#foot_col_3,
+#foot_col_4 {
+  display: inline-block;
+  width: 300px;
+  vertical-align: top;
+  margin-top: 5px;
+  font:normal  20px/1 "Open Sans", sans-serif;
+
+}
+
+#foot_col_1,
+#foot_col_2,
+#foot_col_3,
+#foot_col_4{
+  margin-top: 20px;
+}
+
+/* Optional: Adjust the styling of individual columns */
+#foot_col_1 h4,
+#foot_col_2 h4,
+#foot_col_3 h4,
+#foot_col_4 h4 {
+  margin-top: 0;
+}
+
+#foot_col_1 i,
+#foot_col_2 a,
+#foot_col_3 p,
+#foot_col_4 img {
+  margin-bottom: 5px;
+
+}
+
+
+
+#social_1, #social_2, #social_3,.footer_acc_1{
+  margin: 9px;
+}
+
+#T_C, #privacy{
+  text-decoration: none;
+  color: black;
+  margin: 50px;
+
+}

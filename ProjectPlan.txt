@@ -1,0 +1,20 @@
+1.	Interface of Home and Login page 
+	How can we use javascript and jquery in out home page?
+
+2.	Interface of Welcome page
+	For welcome page which will show after the user has  logged in as a returing customer, we should have a user profile which will show delivery address they use, previous orders and if possible promote products based on past orders or their user type.
+
+3.	Interface of New User Registration page
+	This will be a link on the login page or what the user sees when they click sign up link. In both login and sign up poage the user should have the option to do either.
+
+4.	Interface of Item Catalog page
+	All items willshow here with a brief description and price. There will be an add to cart button for each item.
+
+5.	Interface of Item Description Gallery page
+	How can we use javascrip and jquery here?
+
+6.	Interface of Search Item page
+	
+
+7.	Interface of Payment page
+8.	Logout page
